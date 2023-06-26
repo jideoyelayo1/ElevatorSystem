@@ -36,7 +36,3 @@ If you encounter any issues or have questions regarding the usage of this projec
 - jide.oyelayo@warwick.ac.uk
 - godwin.ogundein@warwick.ac.uk
 - linwei.chen@warwick.ac.uk
-
----
-
-Feel free to customize the updated readme as needed for your project.
